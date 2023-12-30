@@ -1,0 +1,10 @@
+- Which degrees have the highest starting salaries?
+	>>--Physician Assistant --<<
+- Which majors have the lowest earnings after college?
+	>>--Spanish--<
+- Which degrees have the highest earning potential?
+	>>-- Economics -<<
+- What are the lowest risk college majors from an earnings standpoint?
+	>>-- Nursing --<<
+- Do business, STEM (Science, Technology, Engineering, Mathematics) or HASS (Humanities, Arts, Social Science) degrees earn more on average?
+	>>-- Grouoing by df.groupby('ColName') --<<

@@ -1,0 +1,13 @@
+- How many rows does our dataframe have? 
+- How many columns does it have?
+	>>--Both row  and column can find by df.shape--<<
+
+
+- What are the labels for the columns? Do the columns have names?
+	>>--Acess column name by df.columns--<<
+
+- Are there any missing values in our dataframe? Does our dataframe contain any bad data?
+	>>--df.isna for all rows and columns
+	    df[df.isna().any(axis=1)] for find a row--<<
+
+- Then drop a rows  or columns thath contain  a bad data.
